@@ -1,0 +1,23 @@
+body {
+    background-image: url(3.png);
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-weight: bolder;
+}
+
+
+a {
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a:hover {
+    color: yellow; 
+    text-decoration: underline; 
+}
+
+.tableskills {
+    border-spacing: 50px 25px;
+    margin: auto;
+}
